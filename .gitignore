@@ -1,0 +1,8 @@
+video-processing-service/node_modules/*
+video-processing-service/dist/*
+video-processing-service/test-files/*
+video-processing-service/uploads/*
+
+.env
+
+.DS_Store
